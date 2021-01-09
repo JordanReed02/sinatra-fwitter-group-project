@@ -11,6 +11,9 @@ gem 'shotgun'
 gem 'pry'
 gem 'bcrypt'
 gem "tux"
+gem "faker"
+
+gem "pg"
 
 group :test do
   gem 'rspec'
